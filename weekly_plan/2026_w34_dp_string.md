@@ -18,7 +18,7 @@
 - [x] [P3205 合唱队](https://www.luogu.com.cn/problem/P3205) — 状态由"最后一个进的是哪边"推导
 
 ### 二（状压DP）
-- [ ] [P1433 吃奶酪](https://www.luogu.com.cn/problem/P1433) — TSP 入门，dp[mask][i]
+- [x] [P1433 吃奶酪](https://www.luogu.com.cn/problem/P1433) — TSP 入门，dp[mask][i]
 - [ ] [P1879 玉米田](https://www.luogu.com.cn/problem/P1879) — 行合法预筛 + 兼容性判断
 - [ ] [P2704 炮兵阵地](https://www.luogu.com.cn/problem/P2704) — 三行状态转移，滚动数组优化
 - [ ] [P2831 愤怒的小鸟](https://www.luogu.com.cn/problem/P2831) — 抛物线预处理 + lowbit 枚举优化
