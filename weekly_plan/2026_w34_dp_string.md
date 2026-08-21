@@ -19,7 +19,7 @@
 
 ### 二（状压DP）
 - [x] [P1433 吃奶酪](https://www.luogu.com.cn/problem/P1433) — TSP 入门，dp[mask][i]
-- [ ] [P1879 玉米田](https://www.luogu.com.cn/problem/P1879) — 行合法预筛 + 兼容性判断
+- [x] [P1879 玉米田](https://www.luogu.com.cn/problem/P1879) — 行合法预筛 + 兼容性判断
 - [ ] [P2704 炮兵阵地](https://www.luogu.com.cn/problem/P2704) — 三行状态转移，滚动数组优化
 - [ ] [P2831 愤怒的小鸟](https://www.luogu.com.cn/problem/P2831) — 抛物线预处理 + lowbit 枚举优化
 
