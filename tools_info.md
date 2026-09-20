@@ -17,7 +17,7 @@ touch a
 g++ -std=c++17 -O2 -Wall a.cpp
 
 # 运行&&读入数据
-./a.out [< input.txt] # 读入input.txt之前他必须已经存在
+./a.out [< input.txt] [> output.txt] # 读入input.txt之前他必须已经存在，output不需要
 
 ```
 
